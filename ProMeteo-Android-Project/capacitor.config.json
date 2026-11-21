@@ -1,0 +1,6 @@
+{
+  "appId": "com.prometeo.app",
+  "appName": "ProMeteo",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
